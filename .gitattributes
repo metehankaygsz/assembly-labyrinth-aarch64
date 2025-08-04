@@ -1,4 +1,4 @@
 *.c      linguist-language=C
 *.S      linguist-language=Assembly
 *.s      linguist-language=Assembly
-*.inc    linguist-detectable=Assembly
+*.inc    linguist-language=Assembly
