@@ -69,5 +69,5 @@ Makefile             # Build configuration
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
 
